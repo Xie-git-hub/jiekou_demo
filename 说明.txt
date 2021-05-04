@@ -1,0 +1,25 @@
+公共使用：Common
+   excel
+   requests
+   logger
+   ddt
+
+测试用例：TestCases
+
+测试数据：TestDatas
+
+输出文件：Outputs
+报告/日志
+
+配置文件：Conf
+
+main:
+
+
+第一步：实现了注册用例的执行。unittest,ddt,handel_excel
+
+第二步：
+
+
+=========  day5  =====
+数据库的封装：校验
